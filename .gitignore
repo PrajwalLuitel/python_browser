@@ -3,7 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#My local files
 
+browser.exe
+build
+python_browser.rar
+setup.exe
 # C extensions
 *.so
 
